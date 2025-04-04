@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Ciao, sono Giacomo Visciotti!
 
-<!--
-**JacobHess03/JacobHess03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sono dottore in **Ingegneria Informatica e delle Telecomunicazioni**, con esperienze maturate in diversi progetti dove ho potuto mettere in pratica le mie competenze in:
 
-Here are some ideas to get you started:
+- 🛠️ **Ingegneria del software**: progettazione, sviluppo e manutenzione
+- 💻 **Programmazione in C++** e **Python**
+- 🧠 **Deep Learning**: utilizzo e modifica di modelli
+- 📊 **Machine Learning per la Data Science**
+- 🗄️ **Gestione di database**
+- 📡 **Sistemi di telecomunicazioni**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Cosa mi contraddistingue
+
+- 👂 Attitudine all’ascolto
+- 🚀 Ottima capacità di apprendimento
+- 🤝 Spirito collaborativo e desiderio continuo di crescita
+
+---
+
+## 🌱 Attualmente sto lavorando su...
+
+Analisi di dati con Python & Machine Learning
+
+---
+
+## 🌍 Dove trovarmi
+
+📫 [LinkedIn](https://www.linkedin.com/in/giacomo-visciotti-132848230)
+
+---
+
+### Grazie per aver visitato il mio profilo GitHub! 👨‍💻  
+📌 Rimani aggiornato sui miei progetti in corso e futuri!
