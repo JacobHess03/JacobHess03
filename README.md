@@ -3,7 +3,7 @@
 🎓 Sono dottore in **Ingegneria Informatica e delle Telecomunicazioni**, con esperienze maturate in diversi progetti dove ho potuto mettere in pratica le mie competenze in:
 
 - 🛠️ **Ingegneria del software**: progettazione, sviluppo e manutenzione
-- 💻 **Programmazione in C++** e **Python**
+- 💻 **Programmazione in C**, C++** e **Python**
 - 🧠 **Deep Learning**: utilizzo e modifica di modelli
 - 📊 **Machine Learning per la Data Science**
 - 🗄️ **Gestione di database**
