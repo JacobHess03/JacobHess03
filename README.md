@@ -31,6 +31,19 @@ Analisi di dati con Python & Machine Learning
 
 ---
 
+
+## Progetti
+
+
+**Progetti di ricerca e sviluppo software**:
+
+[Deep Log](https://github.com/JacobHess03/Thesis-Work)
+
+[Dragon Quest I](https://github.com/JacobHess03/Dragon-Quest-I)
+
+---
+
+
 ## 🌍 Dove trovarmi
 
 LinkedIn: [Giacomo Visciotti](https://www.linkedin.com/in/giacomo-visciotti-132848230)
