@@ -32,10 +32,10 @@ Analisi di dati con Python & Machine Learning
 ---
 
 
-## Progetti
+## 🧠 Progetti
 
 
-**Progetti di ricerca e sviluppo software**:
+** 💻 Progetti di ricerca e sviluppo software**:
 
 [Deep Log](https://github.com/JacobHess03/Thesis-Work)
 
