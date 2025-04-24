@@ -23,7 +23,7 @@
 
 Analisi di dati con Python & Machine Learning
 
-- **Progetti di esempio**:
+**Progetti di esempio**:
 
 [💪 GymManager](https://github.com/JacobHess03/Progetto-di-Gruppo-8)
 
