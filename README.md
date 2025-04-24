@@ -21,13 +21,17 @@
 
 ## 🌱 Attualmente sto lavorando su...
 
-Analisi di dati con Python & Machine Learning
+Analisi di dati con Python & Machine Learning:
+**Progetti di esempio**:
+[💪 GymManager](https://github.com/JacobHess03/Progetto-di-Gruppo-8)
+[📊 Analisi Dati Videogiochi](https://github.com/JacobHess03/Analisi_Database)
 
 ---
 
 ## 🌍 Dove trovarmi
 
 📫 [LinkedIn](https://www.linkedin.com/in/giacomo-visciotti-132848230)
+    [Email](giacomovisciotti4@gmail.com)
 
 ---
 
