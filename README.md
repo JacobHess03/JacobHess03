@@ -24,6 +24,7 @@
 Analisi di dati con Python & Machine Learning
 
 - **Progetti di esempio**:
+
 [💪 GymManager](https://github.com/JacobHess03/Progetto-di-Gruppo-8)
 
 [📊 Analisi Dati Videogiochi](https://github.com/JacobHess03/Analisi_Database)
