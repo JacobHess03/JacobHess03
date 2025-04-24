@@ -35,7 +35,7 @@ Analisi di dati con Python & Machine Learning
 
 LinkedIn: [Giacomo Visciotti](https://www.linkedin.com/in/giacomo-visciotti-132848230)
 
-[Email](giacomovisciotti4@gmail.com)
+Email: [giacomovisciotti4@gmail.com](giacomovisciotti4@gmail.com)
 
 ---
 
