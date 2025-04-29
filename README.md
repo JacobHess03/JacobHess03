@@ -23,23 +23,20 @@
 
 Analisi di dati con Python & Machine Learning
 
-**Progetti di esempio**:
+## 🧠 Progetti
 
 [💪 GymManager](https://github.com/JacobHess03/Progetto-di-Gruppo-8)
 
-[📊 Analisi Dati Videogiochi](https://github.com/JacobHess03/Analisi_Database)
-
----
-
-
-## 🧠 Progetti
-
-
-**💻 Progetti di ricerca e sviluppo software**:
+[📊 Data Analysis: Videogame's Sales](https://github.com/JacobHess03/Analisi_Database)
 
 [📊 Deep Log](https://github.com/JacobHess03/Thesis-Work)
 
 [🎮 Dragon Quest I](https://github.com/JacobHess03/Dragon-Quest-I)
+
+[🏡 House's Prices Project](https://github.com/JacobHess03/ML-House-s-Prices)
+
+[🚢 Titanic Survival Prediction](https://github.com/JacobHess03/ML-Titanic)
+
 
 ---
 
