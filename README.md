@@ -1,5 +1,4 @@
-![photoGitHub1](https://github.com/user-attachments/assets/934b0d78-aa03-42c6-83d8-aad626011b4b)
-
+![photoGitHub2](https://github.com/user-attachments/assets/912b3b33-d1ec-4083-a949-0254f7a4dcd3)
 
 # 👋 Ciao, sono Giacomo Visciotti!
 
