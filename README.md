@@ -1,3 +1,6 @@
+![photogithub](https://github.com/user-attachments/assets/ab655210-45ea-4927-8f3c-067c6513e37e)
+
+
 # 👋 Ciao, sono Giacomo Visciotti!
 
 🎓 Sono dottore in **Ingegneria Informatica e delle Telecomunicazioni**, con esperienze maturate in diversi progetti dove ho potuto mettere in pratica le mie competenze in:
