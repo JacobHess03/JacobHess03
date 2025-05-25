@@ -1,7 +1,7 @@
 
 # Hi, I'm Giacomo Visciotti!
 
-🎓 I hold a degree in Computer and Telecommunications Engineering, with experience gained from various projects where I've applied my skills in:
+🎓 I hold a bachelor's degree in Computer and Telecommunications Engineering, with experience gained from various projects where I've applied my skills in:
 
 🛠️ Software Engineering: design, development, and maintenance
 
