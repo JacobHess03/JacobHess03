@@ -25,6 +25,7 @@
 ## 🌱 Attualmente sto lavorando su...
 
 Analisi di dati con Python & Machine Learning
+Python binding, integrazione moduli C++ ed ottimizzazione
 
 ## 🧠 Progetti
 
