@@ -29,7 +29,7 @@ Data analysis with Python & Machine Learning
 
 Python binding, C++ module integration, and optimization
 
-🧠 Projects
+# Projects
 
   [GymManager](https://github.com/JacobHess03/Progetto-di-Gruppo-8)
   
@@ -44,7 +44,7 @@ Python binding, C++ module integration, and optimization
   [Titanic Survival Prediction](https://github.com/JacobHess03/ML-Titanic)
 
 
-🌍 # Where to find me
+# 🌍 Where to find me
 
 LinkedIn: [Giacomo Visciotti](https://www.linkedin.com/in/giacomo-visciotti-132848230)
 
