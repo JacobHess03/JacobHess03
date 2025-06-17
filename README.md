@@ -1,4 +1,4 @@
-![bannerGitReal](https://github.com/user-attachments/assets/8df10b5d-c7cb-4ce8-8650-46865d387d2d)
+![bannerGitReal1](https://github.com/user-attachments/assets/bd888bd3-7b49-4cd6-9be5-aec7884b6838)
 
 # Hi, I'm Giacomo Visciotti!
 
