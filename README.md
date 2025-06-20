@@ -28,11 +28,9 @@ Collaborative spirit and continuous desire for growth
 
 Data analysis with Python & Machine Learning
 
-Python binding, C++ module integration, and optimization
+Back-end software development
 
 # Projects
-
-  [GymManager](https://github.com/JacobHess03/Progetto-di-Gruppo-8)
   
   [Data Analysis: Videogame's Sales](https://github.com/JacobHess03/Analisi_Database)
   
@@ -42,7 +40,11 @@ Python binding, C++ module integration, and optimization
   
   [House's Prices Project](https://github.com/JacobHess03/ML-House-s-Prices)
   
-  [Titanic Survival Prediction](https://github.com/JacobHess03/ML-Titanic)
+  [MentallyStabilityOfThePerson-Prediction](https://github.com/JacobHess03/MentallyStabilityOfThePerson-Prediction)
+  
+  [Car-price-prediction](https://github.com/JacobHess03/Car-price-prediction)
+
+  
 
 
 # 🌍 Where to find me
