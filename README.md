@@ -30,6 +30,8 @@ Data analysis with Python & Machine Learning
 
 Back-end software development
 
+3D engineering
+
 # Projects
   
   [Data Analysis: Videogame's Sales](https://github.com/JacobHess03/Analisi_Database)
